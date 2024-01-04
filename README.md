@@ -30,9 +30,9 @@ The final phase of the data analysis process involves implementing actions based
 
    c. **Referral Campaigns:** Target existing Annual Members with referral incentives. If an existing member persuades a casual rider to switch:
    
-      - The existing member receives a percentage discount on renewal for each converted casual rider.
+       The existing member receives a percentage discount on renewal for each converted casual rider.
    
-      - The casual rider gets a discount on their new Annual Membership at sign-up.
+       The casual rider gets a discount on their new Annual Membership at sign-up.
 
 These recommendations aim to capitalize on identified usage patterns and preferences, providing a strategic approach for Cyclistic to enhance user engagement and promote the transition from casual to annual memberships.
 
