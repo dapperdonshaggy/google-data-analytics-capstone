@@ -1,4 +1,5 @@
 # google-data-analytics-capstone
+![Grow with Google]https://github.com/dapperdonshaggy/google-data-analytics-capstone/blob/main/Resources/Grow%20with%20Google.jpg
 # Act
 
 The final phase of the data analysis process involves implementing actions based on the insights derived from the analysis. In this context, actionable steps have been formulated in the form of recommendations for the Cyclistic team, stemming from the initial project questions outlined below.
