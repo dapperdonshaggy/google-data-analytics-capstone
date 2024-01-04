@@ -35,4 +35,4 @@ The final phase of the data analysis process involves implementing actions based
 
 These recommendations aim to capitalize on identified usage patterns and preferences, providing a strategic approach for Cyclistic to enhance user engagement and promote the transition from casual to annual memberships.
 
-![Alt Text](Resources/grow with google.jpg)
+![Alt Text]([Resources/grow with google.jpg](https://github.com/dapperdonshaggy/google-data-analytics-capstone/blob/main/Resources/Grow%20with%20Google.jpg)https://github.com/dapperdonshaggy/google-data-analytics-capstone/blob/main/Resources/Grow%20with%20Google.jpg)
