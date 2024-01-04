@@ -29,6 +29,7 @@ The final phase of the data analysis process involves implementing actions based
    b. **Targeted Digital Media Campaigns:** Leverage insights from the analysis, focusing on peak periods for casual riders. Offer discounted Annual Memberships during these peak periods to attract attention and encourage the switch.
 
    c. **Referral Campaigns:** Target existing Annual Members with referral incentives. If an existing member persuades a casual rider to switch:
+
    
        The existing member receives a percentage discount on renewal for each converted casual rider.
    
